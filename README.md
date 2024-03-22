@@ -8,7 +8,7 @@ This repository houses a collection of my slides presented during a variety of s
 
 ## 2024
 
-I. Fister Jr. Computational Intelligence and Smart Sport Training. Lecture Series on Applications and Theory of Nature-Inspired Intelligent Computing. 21.3.2024.
+I. Fister Jr. [Computational Intelligence and Smart Sport Training](https://github.com/firefly-cpp/slides/blob/main/Iztok_ATONIIC2024.pdf). Lecture Series on Applications and Theory of Nature-Inspired Intelligent Computing. 21.3.2024.
 
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
