@@ -8,6 +8,10 @@ This repository houses a collection of my slides presented during a variety of s
 
 ## 2024
 
+
+I. Fister Jr. [Smart Agriculture and Numerical Association Rule Mining](https://github.com/firefly-cpp/slides/blob/main/Iztok_HCAI2024.pdf). Human-Centered AI Lab Workshop, Tulln an der Donau, 12.9.2024.
+
+
 I. Fister Jr. [Computational Intelligence and Smart Sport Training](https://github.com/firefly-cpp/slides/blob/main/Iztok_ATONIIC2024.pdf). Lecture Series on Applications and Theory of Nature-Inspired Intelligent Computing. 21.3.2024.
 
 # License
