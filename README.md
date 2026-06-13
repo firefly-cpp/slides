@@ -3,10 +3,15 @@
 </h1>
 
 <p align="center">
+    <a href="#2026">2026</a>
     <a href="#2024">2024</a>
 </p>
 
 This repository houses a collection of my slides presented during a variety of speaking events.
+
+## 2026
+
+I. Fister Jr. [From Code to Carbon: Sustainable Practices in Software Engineering](https://github.com/firefly-cpp/slides/blob/main/Iztok_From-code-to-carbon.pdf). Operato Workshop, Ljubljana, 5.6.2026.
 
 ## 2024
 
