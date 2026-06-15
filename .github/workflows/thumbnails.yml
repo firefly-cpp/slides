@@ -1,11 +1,16 @@
 name: Create thumbnails
 on: [push]
+
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   build:
     if: "!contains(github.event.head_commit.message, 'create-pull-request')"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.head_ref }}
       - name: generate_thumbnails
@@ -16,9 +21,9 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
-      - run: sudo chown -R $USER:$USER .;
+      - run: sudo chown -R $USER:$USER .
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v7
         with:
           commit-message: create-pull-request Update README.md and image_thumbnails
           add-paths: |
